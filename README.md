@@ -13,9 +13,9 @@ If you get stuck, please do get in touch and we'll do our best to help.
 ## What we're expecting
 
 * You should spend no more than 3 hours on this challenge, and attempt all three tasks.
-* Please send back your code by the end of **Sunday 4th June**, either as a link to a Github/Gitlab repo, or as a zip file containing your code.
+* Please send back your code (by the date specified in the email from us) either as a link to a GitHub / Gitlab repository, or within a zip file.
 
-We understand that you will have other commitments and time constraints, please let us know as soon as possible if you will be unable to complete this challenge by the deadline, so that we are able to make allowances.
+We understand that you will have other commitments and time constraints, please let us know as soon as possible if you will be unable to complete this challenge by the deadline so that we are able to make allowances.
 
 The challenge only needs to be runnable in a local environment; it doesn't need to be hosted anywhere.
 
