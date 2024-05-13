@@ -23,8 +23,9 @@ If you need help with the challenge, for whatever reason, please do drop us an e
 
 ## Tasks
 
-1. Build a page to show the current astronauts that are in space, using the `OpenNotify#astros` method.
-  * Use the existing `position` page as a guide when adding this new page.
+1. Build a page to show the current astronauts that are in space.
+  * You can either add to this codebase using the `OpenNotify#astros` method and use the existing `position` page as a guide when adding this new page.
+  * Alternatively you could obtain the data from the `http://localhost:4567/astros` endpoint and use this codebase as an API utilising whatever framework you choose as the frontend.
 2. Add some style to the application using HTML and CSS, prioritising clear information presentation.
   * Location data should be shown on the `position` page.
   * Astronauts and their space ships could be shown in a table, or a list.
