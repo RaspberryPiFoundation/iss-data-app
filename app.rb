@@ -18,3 +18,10 @@ get '/position' do
 
   erb :position, locals: { data: iss_now }
 end
+
+get '/astros' do
+  astros = OpenNotify.astros
+
+  content_type :json
+  astros.to_json
+end
